@@ -24,6 +24,7 @@ Enter the letter size of each word
 * `slot` is the position of a letter
 * `guess` is the letter to guess
 * `result` is the result which ranges from correct, present and absent
+
 ![output](./img/output.png)
 
 # Dependencies
